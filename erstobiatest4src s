@@ -1,0 +1,84 @@
+* [33mcommit 6c9f98a84f9f4615075c5a14e187993f3b1a4282[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mtobi[m[33m, [m[1;32mkiki[m[33m)[m
+[31m|[m Author: Your Name <you@example.com>
+[31m|[m Date:   Wed Mar 4 16:16:55 2026 +0100
+[31m|[m 
+[31m|[m     sss
+[31m|[m   
+*   [33mcommit 1404d28e1fe9e0c5fe75b9b3464ae35bcfb41002[m
+[32m|[m[33m\[m  Merge: 36cae9c fb447e9
+[32m|[m [33m|[m Author: Your Name <you@example.com>
+[32m|[m [33m|[m Date:   Wed Mar 4 16:10:19 2026 +0100
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Merging now
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit fb447e9ee2642d5f196cd02744058184950684c8[m[33m ([m[1;32mhohoho[m[33m)[m
+[32m|[m [33m|[m Author: Your Name <you@example.com>
+[32m|[m [33m|[m Date:   Wed Mar 4 16:06:03 2026 +0100
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Doing some testing
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit 36cae9cdec8baee6575d3da03b40517651be6188[m
+[33m|[m[33m/[m  Author: Your Name <you@example.com>
+[33m|[m   Date:   Wed Mar 4 16:09:45 2026 +0100
+[33m|[m   
+[33m|[m       prepeared to merge
+[33m|[m 
+* [33mcommit 0ce98b58f2c13c856f23a5031269b57ab62d83db[m[33m ([m[1;32mtest[m[33m)[m
+[33m|[m Author: Your Name <you@example.com>
+[33m|[m Date:   Wed Mar 4 15:39:36 2026 +0100
+[33m|[m 
+[33m|[m     Kurva
+[33m|[m 
+* [33mcommit 67df7d57b0f9ba8f7267949a977ede038d99a24c[m[33m ([m[1;32msecond[m[33m, [m[1;32mgraphic[m[33m)[m
+[33m|[m Author: Your Name <you@example.com>
+[33m|[m Date:   Wed Mar 4 12:17:26 2026 +0100
+[33m|[m 
+[33m|[m     Task graphic works
+[33m|[m 
+* [33mcommit 6427e5214f9b2e388e2307f0501f7fdb2473a92d[m
+[33m|[m Author: Your Name <you@example.com>
+[33m|[m Date:   Wed Mar 4 10:22:19 2026 +0100
+[33m|[m 
+[33m|[m     Medthods and objects for task object written
+[33m|[m 
+* [33mcommit cfc1e8cd0ec1c0db42c48def6e96c86d4be69ed7[m[33m ([m[1;32mrepeat[m[33m)[m
+[33m|[m Author: Your Name <you@example.com>
+[33m|[m Date:   Wed Mar 4 09:20:44 2026 +0100
+[33m|[m 
+[33m|[m     Function repeat works
+[33m|[m 
+* [33mcommit ad5b6ecd0b5acc2f9ae6bb82c3868213209230f6[m
+[33m|[m Author: Your Name <you@example.com>
+[33m|[m Date:   Mon Mar 2 23:58:12 2026 +0100
+[33m|[m 
+[33m|[m     repeat written
+[33m|[m 
+* [33mcommit 047cd0971a37a664369b029ed5a525b903e94d28[m[33m ([m[1;32mexpr[m[33m)[m
+[33m|[m Author: Your Name <you@example.com>
+[33m|[m Date:   Mon Mar 2 23:45:57 2026 +0100
+[33m|[m 
+[33m|[m     function expr works
+[33m|[m 
+* [33mcommit 9d71916c7756f8dbafedcd45b606356f69ff54e4[m
+[33m|[m Author: Your Name <you@example.com>
+[33m|[m Date:   Mon Mar 2 23:44:23 2026 +0100
+[33m|[m 
+[33m|[m     fn expr written
+[33m|[m 
+* [33mcommit 4f47f6c14752b10aadf31b375fe84c6bcc99f1e1[m[33m ([m[1;32mcourse[m[33m)[m
+[33m|[m Author: Your Name <you@example.com>
+[33m|[m Date:   Mon Mar 2 23:31:32 2026 +0100
+[33m|[m 
+[33m|[m     Function curse works
+[33m|[m 
+* [33mcommit ffbb71f5a8fffc60773b202d31a74831d16b3a97[m
+[33m|[m Author: Your Name <you@example.com>
+[33m|[m Date:   Mon Mar 2 23:25:54 2026 +0100
+[33m|[m 
+[33m|[m     fn course written
+[33m|[m 
+* [33mcommit 60cc4d2889a7b3d20d66b5fd9d476dba9e07df94[m
+  Author: Your Name <you@example.com>
+  Date:   Mon Mar 2 23:17:32 2026 +0100
+  
+      Initial commit
